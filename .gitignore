@@ -1,0 +1,12 @@
+.DS_Store
+/media/
+/output/
+/proposta_grafica/
+
+# Arquivos de vídeo são hospedados externamente.
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[mM]4[vV]
+*.[wW][eE][bB][mM]
+*.[aA][vV][iI]
+*.[mM][kK][vV]
